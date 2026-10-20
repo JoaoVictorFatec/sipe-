@@ -429,7 +429,7 @@ select {
 }
 
 .send-button {
-  background-color: var(--purple);
+  background-color: var(--color-border-orange);
   color: white;
   border: none;
   width: 36px;
