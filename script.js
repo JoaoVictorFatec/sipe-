@@ -61,3 +61,8 @@ formulario.addEventListener("submit", function(evento) {
 window.addEventListener("scroll", atualizarBotaoAtivo);
 window.addEventListener("load", atualizarBotaoAtivo);
 window.addEventListener("resize", atualizarBotaoAtivo);
+
+
+
+
+
