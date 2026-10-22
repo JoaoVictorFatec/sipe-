@@ -232,6 +232,7 @@ select {
   border-radius: 10px;
   transition: all 0.2s ease;
   height: auto;
+  cursor: pointer;
 }
 
 .left-corner a:hover,
