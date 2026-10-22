@@ -10,7 +10,7 @@ function accountSection(elemento) {
 
 function notificationSection(elemento) {
     ativarLink(elemento);
-    document.querySelector('#notification').scrollIntoView();
+    document.querySelector('#notifications').scrollIntoView();
 }
 
 function preferencesSection(elemento) {
